@@ -1,0 +1,8 @@
+
+---
+
+# 3. requirements.txt
+
+```txt id="s2a2p3"
+streamlit
+google-genai
